@@ -1,0 +1,22 @@
+.greentheme {
+    -fx-background-color: #006400; /* used for GridPane */
+    -fx-alignment: center; /* used for GridPane and HBox */
+    -fx-spacing: 10.0; /* used for HBox */
+}
+.buttontheme {
+    -fx-background-color: #B8860B;
+    -fx-font-family: "Arial";
+    -fx-text-fill: black;
+}
+.text-field{
+    -fx-min-width: 304;
+}
+.text-flow{
+    -fx-border-color: black;
+    -fx-background-color: white;
+    -fx-min-width: 400;
+    -fx-min-height: 200;
+}
+.labeltheme {
+    -fx-text-fill: white;
+}
